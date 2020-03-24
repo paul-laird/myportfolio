@@ -3,3 +3,5 @@ class test:
         self.greeting=greeting
     def greet(self,name):
         print(self.greeting,name)
+    def ignore(self):
+        print('')
